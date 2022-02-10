@@ -26,6 +26,7 @@ h2 {
     background-color: darkseagreen;
     color: black;
     font-size: 40px;
+
 }
 
 h3 {
@@ -33,9 +34,11 @@ h3 {
     font-size: 25px;
 }
 
+
 footer {
     color: black;
     font-size: 18px;
     text-align: center;
 }
+
 
