@@ -1,16 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
-@charset "utf-8";
-/* CSS Document */
 
 
 header {
-    color: black;
+    color: ghostwhite;
     font-size: 40px;
     text-align: center;
+    background-color: forestgreen;
 }
 
 #wiseImage {
+
+    display: block;
     margin: auto;
 }
 
@@ -22,6 +23,7 @@ body {
 
 
 h2 {
+    background-color: darkseagreen;
     color: black;
     font-size: 40px;
 }
@@ -36,3 +38,4 @@ footer {
     font-size: 18px;
     text-align: center;
 }
+
