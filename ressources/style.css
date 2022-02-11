@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+header {
+    color: ghostwhite;
+    font-size: 40px;
+    text-align: center;
+    background-color: forestgreen;
+}
+
+#wiseImage {
+    display: block;
+    margin: auto;
+}
+
+body {
+    background-color: #fff5d1;
+    display:flex;
+    font-family: "Times New Roman", Arial;
+    font-size: 18px;
+    justify-content:center
+}
+
+ul {
+    list-style-type: square;
+}
+
+main {
+    margin-bottom: 5em;
+}
+
+section {
+    margin-bottom: 3em;
+}
+
+h1 {
+    color: #fff5d1;
+}
+
+h2 {
+    background-color: darkseagreen;
+    color: #fff5d1;
+    font-size: 40px;
+    padding: 0.1em 0.2em;
+}
+
+h3 {
+    color: darkgreen;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+
+footer {
+    color: black;
+    font-size: 16px;
+    text-align: center;
+}
